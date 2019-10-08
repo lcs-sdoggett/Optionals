@@ -15,6 +15,26 @@
  
  */
 // Type the code below this line...
+var x: String?
+var y: String? = ""
+if x == y {
+    print("variables are equal")
+} else {
+    print("variables NOT equald")
+}
+/*:
+ 
+ After you try this, change the code on line 16 to:
+ 
+ ![set-a-value](set-a-value.png)
+ 
+ Run the program again.
+ 
+ What is the result?  What does this imply?
+ 
+ Write down your thoughts in your black notebook.
+ 
+ */
 
 
 /*:
